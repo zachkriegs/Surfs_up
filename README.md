@@ -2,7 +2,7 @@
 ## Overview of Analysis
 The purpose of this analysis was to show the difference in weather between the months June and December in Oahu, HI. This analysis will be used to determine weather a surf and ice cream shop would be viable in Oahu. 
 ## Results
--There were three major differences in the weather for June vs December
+- There were three major differences in the weather for June vs December
     - It is almost 4 degrees warmer on average in June than in December.
     - The minimum temperature can be up to 8 degrees colder in December than in June.
     - The maximum temperature in both June and December is very similar, with only a two degree difference.
